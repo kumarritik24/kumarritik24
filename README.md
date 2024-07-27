@@ -6,11 +6,16 @@ Data Analytics
 Data Science
 Machine Learning (ML) Engineering
 AI Engineering
+
 🌱 I am pursuing a Master’s degree in Information Technology and Analytics at Rutgers Business School.
+
 💞️ I am eager to collaborate on diverse projects. If you're working on something exciting, feel free to reach out!
+
 📫 You can connect with me on LinkedIn.
+
 😄 Pronouns
 He / Him
+
 ⚡ Fun Fact
 I love playing cricket, video games, and watching action movies.
 
