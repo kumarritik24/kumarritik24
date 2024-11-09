@@ -1,23 +1,26 @@
 👋 Hi, I’m Ritik Kumar (@kumarritik24)
 I am passionate about various domains including:
-Software Engineering
-Artificial Intelligence (AI)
 Data Analytics
+Business Analytics 
+Business Intelligence Analyst 
 Data Science
-Machine Learning (ML) Engineering
-AI Engineering
+Data Specialist 
+Data Engineer
+Machine Learning (ML) Engineer
+AI Engineer
 
-🌱 I am pursuing a Master’s degree in Information Technology and Analytics at Rutgers Business School.
+🌱 I am pursuing a Master’s degree in Information Technology & Analytics at Rutgers Business School-Newark.
 
 💞️ I am eager to collaborate on diverse projects. If you're working on something exciting, feel free to reach out!
 
 📫 You can connect with me on LinkedIn.
+👉 www.linkedin.com/in/ritik-kumar-b9999b221
 
 😄 Pronouns
 He / Him
 
 ⚡ Fun Fact
-I love playing cricket, video games, and watching action movies.
+I love playing cricket, gym, video games, watching action & marvel movies.
 
 <!---
 kumarritik24/kumarritik24 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
