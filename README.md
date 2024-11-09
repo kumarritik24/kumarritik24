@@ -20,7 +20,7 @@ AI Engineer
 He / Him
 
 ⚡ Fun Fact
-I love playing cricket, gym, video games, watching action & marvel movies.
+I love playing vollyball, gym, video games, watching action & marvel movies.
 
 <!---
 kumarritik24/kumarritik24 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
