@@ -1,13 +1,11 @@
 👋 Hi, I’m Ritik Kumar (@kumarritik24)
 I am passionate about various domains including:
-Data Analytics
-Business Analytics 
-Business Intelligence Analyst 
-Data Science
-Data Specialist 
-Data Engineer
-Machine Learning (ML) Engineer
-AI Engineer
+- Data Analytics
+- Business Analytics 
+- Business Intelligence Analyst 
+- Data Science
+- Data Specialist 
+- Data Engineer
 
 🌱 I am pursuing a Master’s degree in Information Technology & Analytics at Rutgers Business School-Newark.
 
