@@ -1,8 +1,9 @@
 👋 Hi, I’m Ritik Kumar (@kumarritik24)
 I am passionate about various domains including:
-- Data Analytics
-- Business Analytics 
-- Business Intelligence Analyst 
+- Data Analysis
+- Business Analysis
+- Business Intelligence 
+- Risk & Compliance Analysis
 - Data Science
 - Data Specialist 
 - Data Engineer
