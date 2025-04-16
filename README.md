@@ -7,7 +7,7 @@ I am passionate about various domains including:
 - Data Specialist 
 - Data Engineer
 
-🌱 I am pursuing a Master’s degree in Information Technology & Analytics at Rutgers Business School-Newark.
+🌱 I completed my Master’s degree in Information Technology & Analytics at Rutgers Business School-Newark.
 
 💞️ I am eager to collaborate on diverse projects. If you're working on something exciting, feel free to reach out!
 
