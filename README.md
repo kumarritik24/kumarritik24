@@ -26,7 +26,7 @@ Languages:        Python, R, SQL, HTML/CSS
 Libraries:        Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
 BI Tools:         Power BI, Tableau, Excel
 Automation:       Alteryx (Fundamentals Completed)
-Cloud and Databases:     Snowflake, MySQL, Oracle, PostgreSQL, Amazon Redshift
+Cloud & Data:     Snowflake, MySQL, Oracle, PostgreSQL, Amazon Redshift
 Version Control:  Git, GitHub
 ```
 
@@ -34,7 +34,7 @@ Version Control:  Git, GitHub
 
 | Project Title                     | Tools Used                               | Highlights                                      |
 |----------------------------------|------------------------------------------|-------------------------------------------------|
-| **Healthcare Cost Optimization** | Excel, Power BI                          | Achieved 18% cost savings using break-even & dosage trend analysis |
-| **Titanic ML**                   | Python, Random Forest, SVM               | Predicted passenger survival based on features  |
+| **Healthcare Cost Optimization** | Excel Forecasting                        | Achieved 18% cost savings using break-even & dosage trend analysis |
+| **Titanic ML**                   | Python, ML Models                        | Predicted passenger survival based on features  |
 | **Uber Trip Analysis**           | Python, Pandas, Jupyter                  | Visualized NYC Uber trip patterns               |
 | **StackOverflow Forecast**       | Python, ARIMA, Holt-Winters              | Forecasted Python-related questions on Stack Overflow |
