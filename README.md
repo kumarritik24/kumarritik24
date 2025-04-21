@@ -1,14 +1,14 @@
 👋 Hi, I’m Ritik Kumar (@kumarritik24)
 I am passionate about various domains including:
 - Data Analysis
+- Business Intelligence
 - Business Analysis
-- Business Intelligence 
-- Risk & Compliance Analysis
 - Data Science
 - Data Specialist 
 - Data Engineer
+- Risk & Compliance Analysis
 
-🌱 I completed my Master’s degree in Information Technology & Analytics at Rutgers Business School-Newark.
+🌱 I did my Master’s degree in Information Technology & Analytics at Rutgers Business School-Newark.
 
 💞️ I am eager to collaborate on diverse projects. If you're working on something exciting, feel free to reach out!
 
