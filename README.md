@@ -31,7 +31,7 @@ Version Control:  Git, GitHub
 
 ---
 
-### 📊 Project Summary
+**### 📊 Project Summary**
 
 ```
 | Project Title                     | Tools Used                               | Highlights                                      |
@@ -41,4 +41,4 @@ Version Control:  Git, GitHub
 | **Uber Trip Analysis**           | Python, Pandas, Jupyter                  | Visualized NYC Uber trip patterns               |
 | **StackOverflow Forecast**       | Python, ARIMA, Holt-Winters              | Forecasted Python-related questions on Stack Overflow |
 
----
+
