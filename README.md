@@ -28,3 +28,13 @@ BI Tools:         Power BI, Tableau, Excel
 Automation:       Alteryx (Fundamentals Completed)
 Cloud & Data:     Snowflake, MySQL, Oracle, PostgreSQL, Amazon Redshift
 Version Control:  Git, GitHub
+
+### 📊 Projects Summary
+
+| Project Title | Tools Used | Highlights |
+|---------------|------------|------------|
+| **Healthcare Cost Optimization** | Excel, Power BI | Reduced costs by 18% using break-even analysis |
+| **Uber Trip Analysis** | Python, Jupyter, Pandas | Analyzed NYC Uber ride patterns for insights |
+| **StackOverflow Trends** | Python, Time Series | Forecasted Python-related questions using ARIMA |
+| **Titanic Survival Prediction** | Python, ML | Built classifiers (SVM, Random Forest) for survival prediction |
+
