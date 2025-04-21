@@ -12,7 +12,7 @@
 ### 🚀 About Me
 
 - 🧠 Passionate about data-driven storytelling and real-world impact
-- 🔍 Skilled in **Data Analysis**, **Business Intelligence**, **Compliance**, and **Analytics**
+- 🔍 Skilled in **Data Analysis**, **Business Intelligence Analyst**, **Compliance**, and **Analytics**
 - 💡 Experience working on fraud detection (Airbnb), cost optimization (healthcare), and churn prediction projects
 - 🌱 Currently learning: **Alteryx**, **Power BI Advanced**, and **ML for Risk Modeling**
 - ✉️ Fun fact: I enjoy simplifying complex data into actionable dashboards and visuals!
@@ -26,5 +26,5 @@ Languages:        Python, R, SQL, HTML/CSS
 Libraries:        Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
 BI Tools:         Power BI, Tableau, Excel
 Automation:       Alteryx (Fundamentals Completed)
-Databases:        MySQL, PostgreSQL, Amazon Redshift
+Databases:        MySQL, Oracle, PostgreSQL, Amazon Redshift
 Version Control:  Git, GitHub
