@@ -26,7 +26,7 @@ Languages:        Python, R, SQL, HTML/CSS
 Libraries:        Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
 BI Tools:         Power BI, Tableau, Excel
 Automation:       Alteryx (Fundamentals Completed)
-Cloud & Data:     Snowflake, MySQL, Oracle, PostgreSQL, Amazon Redshift
+Cloud and Databases:     Snowflake, MySQL, Oracle, PostgreSQL, Amazon Redshift
 Version Control:  Git, GitHub
 ```
 
