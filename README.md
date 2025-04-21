@@ -1,27 +1,30 @@
-👋 Hi, I’m Ritik Kumar (@kumarritik24)
-I am passionate about various domains including:
-- Data Analysis
-- Business Intelligence
-- Business Analysis
-- Data Science
-- Data Specialist 
-- Data Engineer
-- Risk & Compliance Analysis
+<h1 align="center">Hi, I'm Ritik Kumar 👋</h1>
 
-🌱 I did my Master’s degree in Information Technology & Analytics at Rutgers Business School-Newark.
+<p align="center">
+🎓 MS in Information Technology & Analytics from <strong>Rutgers Business School - Newark</strong><br>
+🌍 International student | Open to full-time roles in the U.S. (sponsorship needed)<br>
+💼 Actively seeking roles in <strong>Data Analysis, BI, Risk Analytics, and Tech</strong><br>
+🔗 <a href="https://www.linkedin.com/in/ritik-kumar-b9999b221" target="_blank">Connect with me on LinkedIn</a>
+</p>
 
-💞️ I am eager to collaborate on diverse projects. If you're working on something exciting, feel free to reach out!
+---
 
-📫 You can connect with me on LinkedIn.
-👉 www.linkedin.com/in/ritik-kumar-b9999b221
+### 🚀 About Me
 
-😄 Pronouns
-He / Him
+- 🧠 Passionate about data-driven storytelling and real-world impact
+- 🔍 Skilled in **Data Analysis**, **Business Intelligence**, **Compliance**, and **Analytics**
+- 💡 Experience working on fraud detection (Airbnb), cost optimization (healthcare), and churn prediction projects
+- 🌱 Currently learning: **Alteryx**, **Power BI Advanced**, and **ML for Risk Modeling**
+- ✉️ Fun fact: I enjoy simplifying complex data into actionable dashboards and visuals!
 
-⚡ Fun Fact
-I love playing vollyball, gym, video games, watching action & marvel movies.
+---
 
-<!---
-kumarritik24/kumarritik24 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### 🛠️ Tools & Technologies
+
+```bash
+Languages:        Python, R, SQL, HTML/CSS
+Libraries:        Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
+BI Tools:         Power BI, Tableau, Excel
+Automation:       Alteryx (Fundamentals Completed)
+Databases:        MySQL, PostgreSQL, Amazon Redshift
+Version Control:  Git, GitHub
