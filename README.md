@@ -12,7 +12,7 @@
 ### 🚀 About Me
 
 - 🧠 Passionate about data-driven storytelling and real-world impact
-- 🔍 Skilled in **Data Analysis**, **Business Intelligence Analyst**, **Compliance**, and **Analytics**
+- 🔍 Skilled in **Data Analysis**, **Business Intelligence**, **Compliance**, and **Analytics**
 - 💡 Experience working on fraud detection (Airbnb), cost optimization (healthcare), and churn prediction projects
 - 🌱 Currently learning: **Alteryx**, **Power BI Advanced**, and **ML for Risk Modeling**
 - ✉️ Fun fact: I enjoy simplifying complex data into actionable dashboards and visuals!
