@@ -42,7 +42,7 @@ BI Tools:         Power BI, Tableau, Excel
 Automation:       Alteryx (Fundamentals Completed)
 Cloud & Data:     Snowflake, MySQL, Oracle, PostgreSQL, Amazon Redshift
 Version Control:  Git, GitHub
-```bash
+```
 
 ### 📊 Projects Summary
 
