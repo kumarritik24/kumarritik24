@@ -46,9 +46,11 @@ Version Control:  Git, GitHub
 
 ### 📊 Projects Summary
 
-| Project Title                     | Tools Used                               | Highlights                                      |
-|----------------------------------|------------------------------------------|-------------------------------------------------|
-| **Healthcare Cost Optimization** | Excel Forecasting                        | Achieved 18% cost savings using break-even & dosage trend analysis |
-| **Titanic ML**                   | Python, ML Models                        | Predicted passenger survival based on features  |
-| **Uber Trip Analysis**           | Python, Pandas, Jupyter                  | Visualized NYC Uber trip patterns               |
-| **StackOverflow Forecast**       | Python, ARIMA, Holt-Winters              | Forecasted Python-related questions on Stack Overflow |
+| Project Title                 | Tools Used                          | Highlights                                                                 |
+|------------------------------|-------------------------------------|----------------------------------------------------------------------------|
+| **Healthcare Cost Optimization** | Excel Forecasting                  | Achieved 18% cost savings using break-even & dosage trend analysis         |
+| **Titanic ML**               | Python, ML Models                   | Predicted passenger survival based on features                            |
+| **Uber Trip Analysis**       | Python, Pandas, Jupyter             | Visualized NYC Uber trip patterns                                          |
+| **StackOverflow Forecast**   | Python, ARIMA, Holt-Winters         | Forecasted Python-related questions on Stack Overflow                     |
+| **Air Pollution Analysis**   | Tableau, Excel                      | Visualized pollutant trends & regional disparities across decades          |
+| **NJ Home Price Forecasting**| R, Holt-Winters, SES, ggplot2       | Predicted NJ housing trends using time series models in R                 |
