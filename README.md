@@ -3,7 +3,7 @@
 <p align="center">
 🎓 MS in Information Technology & Analytics from <strong>Rutgers Business School - Newark</strong><br>
 🌍 International student | Open to full-time roles in the U.S. (sponsorship needed)<br>
-💼 Actively seeking roles in <strong>Data Analysis, Business Intelligence, Anti- Money Laundering (AML), Risk Analytics, and Tech</strong><br>
+💼 Actively seeking roles in <strong>Data Analysis, Business Intelligence, Anti-Money Laundering (AML), Risk Analytics, and Tech</strong><br>
 🔗 <a href="https://www.linkedin.com/in/ritik-kumar-b9999b221" target="_blank">Connect with me on LinkedIn</a>
 </p>
 
