@@ -55,3 +55,4 @@ Version Control:  Git, GitHub
 | **Titanic ML**               | Python, Scikit-learn, ML Models     | Predicted passenger survival using classification techniques               |
 | **StackOverflow Forecast**   | Python, ARIMA, Holt-Winters         | Forecasted Python-related questions on Stack Overflow                      |
 | **NJ Home Price Forecasting**| R, Holt-Winters, ggplot2, forecast  | Predicted housing price trends in New Jersey using time series models      |
+| **DC Industries Sales Optimization**| Alteryx, Excel, ETL  | Automated ETL to merge regional sales data, identified underperforming categories, and reduced manual reporting by 40% |
