@@ -3,7 +3,7 @@
 <p align="center">
 🎓 MS in Information Technology & Analytics from <strong>Rutgers Business School - Newark</strong><br>
 🌍 International student | Open to full-time roles in the U.S. (sponsorship needed starting 2028)<br>
-💼 Actively seeking roles in <strong>Data Analysis, Business Intelligence, Anti-Money Laundering (AML), Risk Analytics, and Tech</strong><br>
+💼 Actively seeking roles in <strong>Data Analysis, Data Engineering, Business Intelligence, Anti-Money Laundering (AML), Risk Analytics, and Tech</strong><br>
 🔗 <a href="https://www.linkedin.com/in/ritik-kumar-b9999b221" target="_blank">Connect with me on LinkedIn</a>
 </p>
 
@@ -12,7 +12,7 @@
 ### 🚀 About Me
 
 - 🧠 Passionate about data-driven storytelling and real-world impact
-- 🔍 Skilled in **Data Analysis**, **Business Intelligence**, **Compliance**, and **Analytics**
+- 🔍 Skilled in **Data Analysis**, **Data Engineering**, **Business Intelligence**, **Compliance**, and **Analytics**
 - 💡 Experience working on fraud detection (Airbnb), cost optimization (healthcare), and churn prediction projects
 - 🌱 Currently learning: **Alteryx**, **Power BI Advanced**, and **ML for Risk Modeling**
 - ✉️ Fun fact: I enjoy simplifying complex data into actionable dashboards and visuals!
@@ -37,12 +37,12 @@
 </p>
 
 ```bash
-Languages:        Python, R, SQL, HTML/CSS
+Languages:        Python, R, SQL, HTML/CSS, SAS
 Libraries:        Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
-BI Tools:         Power BI, Tableau, Excel, WorldCheck
-Automation:       Alteryx (Fundamentals Completed)
-Cloud & Data:     Snowflake, MySQL, Oracle, Amazon Redshift
-Version Control:  Git, GitHub
+BI Tools:         Power BI, Tableau, Excel, WorldCheck, Jupyter
+Automation:       Alteryx (Fundamentals Completed), Airflow, Apache Spark, Apache Beam
+Cloud & Data:     Snowflake, GCP, AWS, Azure, Docker, Kubernetes, Terraform, MySQL, PostgreSQL, MongoDB, AlloyDB, Oracle, Amazon S3, Redshift
+Version Control:  Git, Bash, GitHub
 ```
 
 ### 📊 Projects Summary
