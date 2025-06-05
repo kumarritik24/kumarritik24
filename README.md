@@ -25,7 +25,7 @@
   <p align="center">
   <img src="https://img.shields.io/badge/AML/KYC%20Tools-EA4C89?style=for-the-badge&logoColor=white" alt="AML/KYC Tools"/>
   <img src="https://img.shields.io/badge/OFAC/BSA%20Tools-EA4C89?style=for-the-badge&logoColor=white" alt="OFAC/BSA"/>
-  <img src="https://img.shields.io/badge/Refinitiv WorldCheck%20Tools-EA4C89?style=for-the-badge&logoColor=white" alt="Refinitiv WorldCheck"/>
+  <img src="https://img.shields.io/badge/Refinitiv WorldCheck%20-EA4C89?style=for-the-badge&logoColor=white" alt="Refinitiv WorldCheck"/>
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
