@@ -42,8 +42,8 @@
 Languages:        Python, R, SQL, HTML/CSS, SAS
 Libraries:        Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
 BI Tools:         Power BI, Tableau, Excel, WorldCheck, Jupyter
-Automation:       Alteryx (Fundamentals Completed), Airflow, Apache Spark, Apache Beam
-Cloud & Data:     Snowflake, GCP, AWS, Azure, Docker, Kubernetes, Terraform, MySQL, PostgreSQL, MongoDB, AlloyDB, Oracle, Amazon S3, Redshift
+Automation:       Alteryx (Fundamentals Completed), Apache Spark
+Cloud & Data:     Snowflake, MySQL, Oracle
 Version Control:  Git, Bash, GitHub
 ```
 
